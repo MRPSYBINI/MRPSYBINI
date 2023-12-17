@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MRPSYBINI
+- 👋 Hi, I’m @MRPSYBINI/Leonardo Fernandes
 - 👀 I’m interested in become a developer
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on companies around the world
