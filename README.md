@@ -1,7 +1,7 @@
--  Hi, I’m Leonardo Fernandes/@MRPSYBINI
--  I’m interested in become a developer
--  I’m currently learning C
--  I’m looking to collaborate on companies around the world
+-  Leonardo Fernandes/@MRPSYBINI
+-  Interested in become a developer
+-  Currently learning C
+-  Looking to collaborate on companies around the world
 -  How to reach me LinkedIn: https://www.linkedin.com/in/leonardo-fernandes-901447205/
 
 <!---
